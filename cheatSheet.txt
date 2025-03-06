@@ -1,0 +1,7 @@
+Terminal:
+	~ får fram genom alt + 126
+		Möjlig gör direkt access från root
+
+Git:
+	Gå alltid in i git locationen in git bash
+	Git checkout, by branch
